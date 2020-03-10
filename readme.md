@@ -1,30 +1,30 @@
-- [Gestão do Projecto](#orgd8bfd30)
-  - [Filesystem: Directórios](#org89bf69d)
-  - [Horas do Projecto](#org97c8b53)
-  - [Contactos](#orgfe8a66b)
-- [Tools](#orgd4d8e89)
-  - [Team conversation](#org97b186e)
-  - [Diagrama de Gantt](#orgd65447f)
-  - [Get Things Done](#org97bc0ef)
-  - [Documentation + Tracking Project](#org20ad9a2)
-    - [Workflow](#orge1c4e0e)
-- [Project](#org8b2a168)
-  - [RFCAR - Radio Frequency Camera Assisted Rover](#orgdf740e3)
-    - [Motivation](#orga16789f)
-    - [Description](#org757b3ab)
-    - [Technologies](#org922f18e)
-  - [Workgroups](#org8f5a1de)
-  - [Meetings](#org93cb730)
-    - [2 &#x2014; Planeamento](#org70d89e1)
+- [Gestão do Projecto](#orgd9095bd)
+  - [Filesystem: Directórios](#org2f44fd0)
+  - [Horas do Projecto](#org0a09fa9)
+  - [Contactos](#org6540cf3)
+- [Tools](#org74e6f12)
+  - [Team conversation](#orgcb8036f)
+  - [Diagrama de Gantt](#org88a5e96)
+  - [Get Things Done](#org0fc94de)
+  - [Documentation + Tracking Project](#org39b2347)
+    - [Workflow](#org7d3baaf)
+- [Project](#org683651e)
+  - [RFCAR - Radio Frequency Camera Assisted Rover](#org1892f29)
+    - [Motivation](#orga5d993f)
+    - [Description](#orgb41fef0)
+    - [Technologies](#orgbe47973)
+  - [Workgroups](#orge138324)
+  - [Meetings](#org1c15905)
+    - [2 &#x2014; Planeamento](#org60bf77c)
 
 
 
-<a id="orgd8bfd30"></a>
+<a id="orgd9095bd"></a>
 
 # Gestão do Projecto
 
 
-<a id="org89bf69d"></a>
+<a id="org2f44fd0"></a>
 
 ## Filesystem: Directórios
 
@@ -59,14 +59,14 @@
 -   [./HW/](HW): HW desenvolvido para o projecto decomposto pelas várias vertentes.
 
 
-<a id="org97c8b53"></a>
+<a id="org0a09fa9"></a>
 
 ## Horas do Projecto
 
 Cada elemento do grupo deverá adicionar o nr. de horas dedicado ao projecto no ficheiro [ProjHours.xlsx](ProjManag/ProjHours.xlsx).Basta duplicar a folha inicial.
 
 
-<a id="orgfe8a66b"></a>
+<a id="org6540cf3"></a>
 
 ## Contactos
 
@@ -83,19 +83,19 @@ Aqui estão os contactos de todos os elementos do grupo. Sintam-se à vontade pa
 | José Pires     | 50178     | a50178@alunos.uminho.pt       | 911 901290 |
 
 
-<a id="orgd4d8e89"></a>
+<a id="org74e6f12"></a>
 
 # Tools
 
 
-<a id="org97b186e"></a>
+<a id="orgcb8036f"></a>
 
 ## Team conversation
 
 A ferramenta [Twist](https://twist.com) foi escolhida por fornecer agrupamento de conversas em tópicos
 
 
-<a id="orgd65447f"></a>
+<a id="org88a5e96"></a>
 
 ## Diagrama de Gantt
 
@@ -107,7 +107,7 @@ Será usado o [Gantter](https://www.gantter.com/) para elaboração do diagrama 
 O mapa de Gantt original deverá ser preservado, como constando da etapa 1, mas deverá ser actualizado ao longo do projecto.
 
 
-<a id="org97bc0ef"></a>
+<a id="org0fc94de"></a>
 
 ## Get Things Done
 
@@ -119,7 +119,7 @@ O diagrama de Gantt deverá ser usado numa macro-escala para gestão do projecto
 Cada elemento do grupo deverá adicionar o nr. de horas dedicado ao projecto no ficheiro [ProjHours.xlsx](ProjManag/ProjHours.xlsx).Basta duplicar a folha inicial.
 
 
-<a id="org20ad9a2"></a>
+<a id="org39b2347"></a>
 
 ## Documentation + Tracking Project
 
@@ -129,13 +129,13 @@ Existe um grande fluxo de informação associado ao projeto. Para gerir melhor e
 -   documentação genérica: usando o LaTeX
 
 
-<a id="orge1c4e0e"></a>
+<a id="org7d3baaf"></a>
 
 ### Workflow
 
 Para a gestão da informação relacionada com o projecto será necessário adoptar algumas normas e convenções para utilização adequada e conveniente do repositório.
 
-1.  **Filesystem**: Será criado um *filesystem*, cuja raiz é o directório actual e cujas paths devem ser relativas. Para armazenamento do *filesystem* será usada o github. Para visualizar e navegar pelo conteúdo basta replicar o *filesystem* em qq directório. O *filesystem* será navegável através dos links indicados neste readme file na secção [Directórios](#org89bf69d) deste documento.
+1.  **Filesystem**: Será criado um *filesystem*, cuja raiz é o directório actual e cujas paths devem ser relativas. Para armazenamento do *filesystem* será usada o github. Para visualizar e navegar pelo conteúdo basta replicar o *filesystem* em qq directório. O *filesystem* será navegável através dos links indicados neste readme file na secção [Directórios](#org2f44fd0) deste documento.
 2.  **Estrutura**:
     1.  Existirá um ficheiro readme `rd.tex` por cada directório que deve conter a informação essencial a esse tópico e permite a navegação para os restantes subtópicos através de links.
     2.  Cada pasta deve conter um directório `./sec/img/` aonde serão armazenadas as imagens relevantes para o tópico.
@@ -151,31 +151,31 @@ Para a gestão da informação relacionada com o projecto será necessário adop
     -   Compilar o ficheiro `.tex` e gerar o respectivo PDF.
 
 
-<a id="org8b2a168"></a>
+<a id="org683651e"></a>
 
 # Project
 
 
-<a id="orgdf740e3"></a>
+<a id="org1892f29"></a>
 
 ## RFCAR - Radio Frequency Camera Assisted Rover
 
 
-<a id="orga16789f"></a>
+<a id="orga5d993f"></a>
 
 ### Motivation
 
 This project is being developed in the scope of the integrator project of LPI2. It aims to develop skills in the software engineering area and digital design, wireless communication protocols, odometric vehicle navigation, etc.
 
 
-<a id="org757b3ab"></a>
+<a id="orgb41fef0"></a>
 
 ### Description
 
 The project consists of a remote controlled car used to assist exploration and maintenance domains. For this purpose, the vehicle should contain a remotely operated camera feeding back video to the user. Additionally, the vehicle must contain odometric sensors to assist in driving and prevent crashes when user is not in control, e.g., when connection is lost. The vehicle can be used for exploration of unaccessible areas to human operators like fluid pipelines and other hazardous sites.
 
 
-<a id="org922f18e"></a>
+<a id="orgbe47973"></a>
 
 ### Technologies
 
@@ -189,7 +189,7 @@ The project consists of a remote controlled car used to assist exploration and m
     -   GPRS
 
 
-<a id="org8f5a1de"></a>
+<a id="orge138324"></a>
 
 ## Workgroups
 
@@ -216,12 +216,12 @@ The project consists of a remote controlled car used to assist exploration and m
 5.  **PCBs**: Hugo Carvalho, Hugo Ferreira
 
 
-<a id="org93cb730"></a>
+<a id="org1c15905"></a>
 
 ## Meetings
 
 
-<a id="org70d89e1"></a>
+<a id="org60bf77c"></a>
 
 ### 2 &#x2014; Planeamento
 
