@@ -16,6 +16,5 @@
 *.lol
 *.org
 # ignore the designated subfolders
-research/
 auto/
 
