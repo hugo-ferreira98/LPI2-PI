@@ -206,9 +206,9 @@
   \renewcommand{\thefigure}{\Alph{chapter}.\arabic{figure}}
  
   % Adding a page to separate appendices from the other chapters
-  \chapter*{Appendices}
+  \chapter*{Appendices}%
 \label{ch:Append}
-  \addcontentsline{toc}{chapter}{\sc{Appendices}}
+  \addcontentsline{toc}{chapter}{\normalfont\scshape{Appendices}}
   \cleardoublepage%
 
   %\appendix % this is the normal appendix; we use a custom one
