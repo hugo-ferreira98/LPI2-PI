@@ -1,30 +1,30 @@
-- [Gestão do Projecto](#orgd9095bd)
-  - [Filesystem: Directórios](#org2f44fd0)
-  - [Horas do Projecto](#org0a09fa9)
-  - [Contactos](#org6540cf3)
-- [Tools](#org74e6f12)
-  - [Team conversation](#orgcb8036f)
-  - [Diagrama de Gantt](#org88a5e96)
-  - [Get Things Done](#org0fc94de)
-  - [Documentation + Tracking Project](#org39b2347)
-    - [Workflow](#org7d3baaf)
-- [Project](#org683651e)
-  - [RFCAR - Radio Frequency Camera Assisted Rover](#org1892f29)
-    - [Motivation](#orga5d993f)
-    - [Description](#orgb41fef0)
-    - [Technologies](#orgbe47973)
-  - [Workgroups](#orge138324)
-  - [Meetings](#org1c15905)
-    - [2 &#x2014; Planeamento](#org60bf77c)
+- [Gestão do Projecto](#org82132b3)
+  - [Filesystem: Directórios](#org8f47be6)
+  - [Horas do Projecto](#org21aa1fd)
+  - [Contactos](#orge03a855)
+- [Tools](#org0607840)
+  - [Team conversation](#org6ad9df5)
+  - [Diagrama de Gantt](#orgfc0a33f)
+  - [Get Things Done](#org8e5822a)
+  - [Documentation + Tracking Project](#orge05ba88)
+    - [Workflow](#org2bc9d0a)
+- [Project](#org8477697)
+  - [RFCAR - Radio Frequency Camera Assisted Rover](#org2a7c09f)
+    - [Motivation](#org6d497e3)
+    - [Description](#orgbb39065)
+    - [Technologies](#org8247002)
+  - [Workgroups](#org8263c6f)
+  - [Meetings](#org568d15d)
+    - [2 &#x2014; Planeamento](#org1a207fa)
 
 
 
-<a id="orgd9095bd"></a>
+<a id="org82132b3"></a>
 
 # Gestão do Projecto
 
 
-<a id="org2f44fd0"></a>
+<a id="org8f47be6"></a>
 
 ## Filesystem: Directórios
 
@@ -59,43 +59,43 @@
 -   [./HW/](HW): HW desenvolvido para o projecto decomposto pelas várias vertentes.
 
 
-<a id="org0a09fa9"></a>
+<a id="org21aa1fd"></a>
 
 ## Horas do Projecto
 
 Cada elemento do grupo deverá adicionar o nr. de horas dedicado ao projecto no ficheiro [ProjHours.xlsx](ProjManag/ProjHours.xlsx).Basta duplicar a folha inicial.
 
 
-<a id="org6540cf3"></a>
+<a id="orge03a855"></a>
 
 ## Contactos
 
 Aqui estão os contactos de todos os elementos do grupo. Sintam-se à vontade para editar.
 
-| Nome           | Nr. Aluno | Email                         | Tlm        |
-|-------------- |--------- |----------------------------- |---------- |
-| Nuno Rodrigues | 85207     | nunorodrigues0707@gmail.com   |            |
-| Hugo Carvalho  | 85156     | hugo.carvalho1999@hotmail.com |            |
-| Hugo Ferreira  | 80665     | hugunited11@gmail.com         |            |
-| João Faria     | 85632     | joaofaria99@gmail.com         |            |
-| João Carvalho  | 83564     | jafpcarvalho44@gmail.com      |            |
-| José Mendes    | 85951     |                               |            |
-| José Pires     | 50178     | a50178@alunos.uminho.pt       | 911 901290 |
+| Nome           | Nr. Aluno | Email                       | Tlm        |
+|-------------- |--------- |--------------------------- |---------- |
+| Nuno Rodrigues | 85207     | nunorodrigues0707@gmail.com |            |
+| Hugo Carvalho  | 85156     | hugo.mitab@gmail.com        |            |
+| Hugo Ferreira  | 80665     | hugunited11@gmail.com       |            |
+| João Faria     | 85632     | joaofaria99@gmail.com       |            |
+| João Carvalho  | 83564     | jafpcarvalho44@gmail.com    |            |
+| José Mendes    | 85951     | josepr.mendes@gmail.com     |            |
+| José Pires     | 50178     | a50178@alunos.uminho.pt     | 911 901290 |
 
 
-<a id="org74e6f12"></a>
+<a id="org0607840"></a>
 
 # Tools
 
 
-<a id="orgcb8036f"></a>
+<a id="org6ad9df5"></a>
 
 ## Team conversation
 
 A ferramenta [Twist](https://twist.com) foi escolhida por fornecer agrupamento de conversas em tópicos
 
 
-<a id="org88a5e96"></a>
+<a id="orgfc0a33f"></a>
 
 ## Diagrama de Gantt
 
@@ -107,7 +107,7 @@ Será usado o [Gantter](https://www.gantter.com/) para elaboração do diagrama 
 O mapa de Gantt original deverá ser preservado, como constando da etapa 1, mas deverá ser actualizado ao longo do projecto.
 
 
-<a id="org0fc94de"></a>
+<a id="org8e5822a"></a>
 
 ## Get Things Done
 
@@ -119,23 +119,24 @@ O diagrama de Gantt deverá ser usado numa macro-escala para gestão do projecto
 Cada elemento do grupo deverá adicionar o nr. de horas dedicado ao projecto no ficheiro [ProjHours.xlsx](ProjManag/ProjHours.xlsx).Basta duplicar a folha inicial.
 
 
-<a id="org39b2347"></a>
+<a id="orge05ba88"></a>
 
 ## Documentation + Tracking Project
 
 Existe um grande fluxo de informação associado ao projeto. Para gerir melhor essa informação cada grupo de trabalho deverá geral a documentação relativa aos seus tópicos, nomeadamente:
 
--   código: usando o doxygen
--   documentação genérica: usando o LaTeX
+-   *código*: usando o doxygen
+-   *documentação genérica*: usando o LaTeX
+-   *gestão de projecto*: usando o Trello para adicionar tarefas e atribuí-las aos diferentes membros da equipa.
 
 
-<a id="org7d3baaf"></a>
+<a id="org2bc9d0a"></a>
 
 ### Workflow
 
 Para a gestão da informação relacionada com o projecto será necessário adoptar algumas normas e convenções para utilização adequada e conveniente do repositório.
 
-1.  **Filesystem**: Será criado um *filesystem*, cuja raiz é o directório actual e cujas paths devem ser relativas. Para armazenamento do *filesystem* será usada o github. Para visualizar e navegar pelo conteúdo basta replicar o *filesystem* em qq directório. O *filesystem* será navegável através dos links indicados neste readme file na secção [Directórios](#org2f44fd0) deste documento.
+1.  **Filesystem**: Será criado um *filesystem*, cuja raiz é o directório actual e cujas paths devem ser relativas. Para armazenamento do *filesystem* será usada o github. Para visualizar e navegar pelo conteúdo basta replicar o *filesystem* em qq directório. O *filesystem* será navegável através dos links indicados neste readme file na secção [Directórios](#org8f47be6) deste documento.
 2.  **Estrutura**:
     1.  Existirá um ficheiro readme `rd.tex` por cada directório que deve conter a informação essencial a esse tópico e permite a navegação para os restantes subtópicos através de links.
     2.  Cada pasta deve conter um directório `./sec/img/` aonde serão armazenadas as imagens relevantes para o tópico.
@@ -143,39 +144,43 @@ Para a gestão da informação relacionada com o projecto será necessário adop
 
 **Workflow**:
 
-1.  **Código**:
+1.  **Projecto**:
+    -   As tarefas deverão ser adicionadas a cartões do Trello e atribuídas aos diferentes elementos da equipa, com a data prevista de entrega.
+    -   Cada cartão deverá ter uma data prevista de entrega, não sendo recomendado misturar tarefas para diferentes datas.
+    -   Na vista *Calendar* é possível visualizar os cartões do projecto.
+2.  **Código**:
     -   O código deverá ser adicionado ao directório específico pelo grupo de trabalho indicado que deverá supervisionar a gestão deste, através dos "pushs" e "merges".
     -   Deverá ser incluído um Doxyfile para geração da documentação quando requisitada. Não será necessário atualizar toda a documentação para o repositório já que o Doxygen poderá fazê-lo mediante um ficheiro de documentação válido e os ficheiros codificados com as tags correctas.
-2.  **Doc**:
+3.  **Doc**:
     -   Criar os ficheiros `.tex` desejados, e.g., `rd.tex`.
     -   Compilar o ficheiro `.tex` e gerar o respectivo PDF.
 
 
-<a id="org683651e"></a>
+<a id="org8477697"></a>
 
 # Project
 
 
-<a id="org1892f29"></a>
+<a id="org2a7c09f"></a>
 
 ## RFCAR - Radio Frequency Camera Assisted Rover
 
 
-<a id="orga5d993f"></a>
+<a id="org6d497e3"></a>
 
 ### Motivation
 
 This project is being developed in the scope of the integrator project of LPI2. It aims to develop skills in the software engineering area and digital design, wireless communication protocols, odometric vehicle navigation, etc.
 
 
-<a id="orgb41fef0"></a>
+<a id="orgbb39065"></a>
 
 ### Description
 
 The project consists of a remote controlled car used to assist exploration and maintenance domains. For this purpose, the vehicle should contain a remotely operated camera feeding back video to the user. Additionally, the vehicle must contain odometric sensors to assist in driving and prevent crashes when user is not in control, e.g., when connection is lost. The vehicle can be used for exploration of unaccessible areas to human operators like fluid pipelines and other hazardous sites.
 
 
-<a id="orgbe47973"></a>
+<a id="org8247002"></a>
 
 ### Technologies
 
@@ -189,7 +194,7 @@ The project consists of a remote controlled car used to assist exploration and m
     -   GPRS
 
 
-<a id="orge138324"></a>
+<a id="org8263c6f"></a>
 
 ## Workgroups
 
@@ -216,12 +221,12 @@ The project consists of a remote controlled car used to assist exploration and m
 5.  **PCBs**: Hugo Carvalho, Hugo Ferreira
 
 
-<a id="org1c15905"></a>
+<a id="org568d15d"></a>
 
 ## Meetings
 
 
-<a id="org60bf77c"></a>
+<a id="org1a207fa"></a>
 
 ### 2 &#x2014; Planeamento
 
